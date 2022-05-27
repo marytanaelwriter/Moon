@@ -1,37 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about]
+date: 2022-05-27
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center>👩🏻‍💻</center>
 
-## Preview
+Hey, my name is Mary Antonette Tanael. You can call me "Mary" for short (although my close friends know that I go by several other nicknames).
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I'm a writer and editor based in Laguna, Philippines. I hold a BA in Creative Writing from UP Diliman.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+After graduating, I got into content writing and copywriting. I did that for a few years--until it felt tedious and soul-sucking. I desperately wanted something new.
 
-## Getting Started
+During my soul searching, I discovered technical writing. And it was like a whole new world of opportunities opened up before me. This field married my passion for clear, concise, and helpful writing with learning new things--especially techie things like software and web applications.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+I'm currently seeking full-time tech writing opportunities in the IT industry. In my free time, I try to learn coding and work on my personal blog. When I'm not busy with my passion projects, I'm probably reading, listening to podcasts, or taking long walks.
